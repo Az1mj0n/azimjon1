@@ -1,0 +1,192 @@
+body{
+    width: 1200px;
+    height: 50px;
+    margin: 0 auto;
+}
+.head{
+    background-color: silver;
+    width: 1200px;
+    height: 50px;
+}
+.img{
+    width:35px;
+    height: 35px;
+    margin-left: 10px;
+    padding: 10px;
+}
+li{
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 12px;
+}
+ul{
+    cursor: pointer;
+    margin-left: 90px;
+    margin-top: -40px;
+}
+li:hover{
+    border-bottom: 2px solid black;
+}
+.nav2{
+    display: flex;
+    flex-direction: row;
+    margin-left: 700px;
+    margin-top: 8px;
+}
+.img1{
+    width: 25px;
+    height: 25px;
+    margin-left: 26px;
+    margin-top: -40px;
+}
+.section{
+    width:1200px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 15px;
+    background-image: url("mockup-laptop-computer-conference-table-meeting-room-154669006.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.li{
+    margin-top: 100px;
+}
+.section2{
+    background-color: white;
+    margin-top: 10px;
+    width: 1200px;
+    height: 115px;
+    display: flex;
+    flex-direction: row;
+}
+.card{
+    width: 120px;
+    height: 40px;
+    margin: 0 auto;
+}
+.img2{
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    margin-left: 5px;
+    margin-bottom: 2px;
+}
+.href{
+    margin-bottom: 50px;
+    margin-left: 5px;
+}
+.section3{
+    margin: 0 auto;
+    width: 1200px;
+    height: 400px;
+    background-color: white;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.fort{
+    width: 100%;
+}
+h5{
+    width: 200px;
+    height:60px ;
+    text-align: center;
+}
+.box-1{
+    width: 285px;
+    height: 400px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.fort:hover{
+    opacity: 80%;
+}
+.section4{
+    width:1200px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 15px;
+    background-image: url("RE4FfQ0.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.card1{
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 10px;
+}
+.section5{
+     width:1200px;
+     height: 500px;
+     margin: 0 auto;
+     margin-top: 15px;
+     background-image: url("RE4UaIQ.webp");
+     background-repeat: no-repeat;
+     background-size: cover;
+
+ }
+ .h1{
+    margin-left: 800px;
+ }
+.h3 {
+    width: 500px;
+    height: 5px;
+    float: right;
+    margin-top: 150px;
+}
+.l{
+    width: 100px;
+    height: 20px;
+    background-color: black;
+    color: white;
+    margin-left: 600px;
+    margin-top: 150px;
+}
+.l:hover{
+   border-bottom: 2px solid black;
+}
+.card5{
+    background-color: white;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.img3{
+    margin-left: 5px;
+    width: 30px;
+    height: 20px;
+}
+.lif{
+    margin-top: 3px;
+}
+.foot{
+    display: flex;
+    flex-direction: row;
+    /*background-repeat: no-repeat;*/
+    background-color: silver;
+    width: 1200px;
+    height: 480px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.v{
+    margin-top: 1px;
+    margin-left: 55px;
+}
+.haw{
+    margin-left: 120px;
+    color: #534f4f;
+}
+.section7{
+    width: 1200px;
+    height: 30px;
+    background-color: silver;
+    margin-bottom: 20px;
+}
+
+
